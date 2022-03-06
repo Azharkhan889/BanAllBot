@@ -1,6 +1,6 @@
-#  Copyright (c) 2022 @TheRiZoeL - RiZoeL
+#  Copyright (c) 2022 @MAFIAOWNER4U - MAFIAOWNER4U
 # Telegram Ban All Bot 
-# Creator - RiZoeL
+# Creator - MAFIAOWNER4U
 
 import logging
 import re
