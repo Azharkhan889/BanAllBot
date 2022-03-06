@@ -12,5 +12,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/azharkhan889/BanAllBot)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [MAFIAOWNER4U](https://t.me/MAFIAOWNER4U)
